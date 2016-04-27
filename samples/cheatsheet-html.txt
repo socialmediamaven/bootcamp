@@ -1,0 +1,53 @@
+Basic Tags
+<html></html> Creates an HTML document
+
+<head></head> Sets off the title and other information that isn’t displayed on the web page itself
+
+<body></body> Sets off the visible portion of the document
+
+Body Attributes
+<body bgcolor="pink"> Sets the background color, using name or hex value
+
+<body text="black"> Sets the text color, using name or hex value
+
+<body link="blue"> Sets the color of links, using name or hex value
+
+<body vlink="#ff0000"> Sets the color of followed links, using name or hex value
+
+<body alink="#00ff00"> Sets the color of links on click
+
+<body ondragstart="return false" onselectstart="return false"> Disallows text selection with the mouse and keyboard
+
+Text Tags
+<pre></pre> Creates preformatted text
+
+<hl></hl> Creates the largest headline
+
+<h6></h6> Creates the smallest headline
+
+<b></b> Creates bold text
+
+<i></i> Creates italic text
+
+<tt></tt> Creates teletype, or typewriter-style text
+
+<cite></cite> Creates a citation, usually italic
+
+<em></em> Emphasizes a word (with italic or bold)
+
+<strong></strong> Emphasizes a word (with italic or bold)
+
+<font size="3"></font> Sets size of font, from 1 to 7
+
+<font color="green"></font> Sets font color, using name or hex value
+
+Links
+<a href="URL"></a> Creates a hyperlink
+
+<a href="mailto:EMAIL"></a> Creates a mailto link
+
+<a href="URL"><img src="URL"> </a> Creates an image/link
+
+<a name="NAME"></a> Creates a target location within a document
+
+<a href="#NAME"></a> Links to that target location from elsewhere in the document
