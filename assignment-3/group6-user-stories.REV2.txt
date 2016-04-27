@@ -1,0 +1,9 @@
+﻿Group#6 USER STORIES
+
+
+1.As a senior, I want access to programs so I can have a social life!(hn)
+2.As an adult child of a senior parent, I want information about senior activities in East Palo Alto so I can help my parents, live well and thrive in the community.(bc)
+3.As a senior, some days I don’t have enough strength to cook for myself. I would like to take advantage of meal services offered In East Palo Alto.(mg)
+4.As a senior, I want a clean site that is easy to read.(JT)
+5.As a senior who is trying to stay active, I would like access to schedule of classes offered at the senior center and transportation options when I need it.(JT)
+6.As a senior, I would like to see pictures of some of the past events at the senior center so I can get a feel for what happens at these social Gatherings and see if there’s anyone I know.(mg)
